@@ -1,6 +1,10 @@
 //nodemon is used for restarting the project base in terminal upon keypress. this simple code runs like nodemon but for single and normal and simple files it just 
 //restartes the file everytime u press a key in the terminal showing updated console logs or code outputs
 
+//importatn
+//to run type
+//node nodemon_type-for-simple_file.js writehereyourfilename.js
+
 let count = 0;
 const path=require('path');
 
